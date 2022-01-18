@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Jain
 - 👀 I’m interested in making Web Applications
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chirag-jain-101b611ba/)
 
 <!---
