@@ -1,29 +1,33 @@
 <h2 align="left">Hi 👋! My name is Chirag Jain.</h2>
 
-<p>I am a Full Stack Software Engineer currently working @ Verdis.ai as a frontend lead. Contact me @</p>
+I am a Full Stack Software Engineer currently working @ Verdis.ai as a frontend lead.
+Connect with me &#8600;
 
-<div style="display:flex; justify-content: center; align-items: center;">
+<!-- Links -->
+<div align="center">
   <a href="https://twitter.com/cchirag_jain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.linkedin.com/in/cchiragjain/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="26" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:cjain8060@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
+<!-- Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cchiragjain&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cchiragjain&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cchiragjain&locale=en&hide_title=true&layout=compact&card_width=330&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=cchiragjain&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
 
+<!-- Tech Stack -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <img width="12" />
@@ -57,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/cchiragjain/cchiragjain/output/snake.svg" alt="Snake animation" width="75%"/>
