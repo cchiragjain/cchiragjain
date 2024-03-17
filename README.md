@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! My name is Chirag Jain.</h2>
 
+<p>I am a Full Stack Software Engineer currently working @ Verdis.ai as a frontend lead. Contact me @</p>
+
+<div style="display:flex; justify-content: center; align-items: center;">
+  <a href="https://twitter.com/cchirag_jain" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cchiragjain/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:cjain8060@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
 ###
 
 <div align="center">
@@ -46,28 +60,7 @@
 
 <br clear="both">
 
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpnbjluZTFydmZuOXZtMmNwYjNoZGFhcDJ6anl0MWU0NW11dXN1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/cchiragjain/cchiragjain/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Contact Me @</h3>
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/cchirag_jain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cchiragjain/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:cjain8060@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<p float="left">
+  <img src="https://raw.githubusercontent.com/cchiragjain/cchiragjain/output/snake.svg" alt="Snake animation" width="75%"/>
+  <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpnbjluZTFydmZuOXZtMmNwYjNoZGFhcDJ6anl0MWU0NW11dXN1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
+</p>
